@@ -63,7 +63,7 @@
 		 <class name="com.CPM.qa.testCases.TC_CPM_037" />
 		 <class name="com.CPM.qa.testCases.TC_CPM_086" />
 		 <class name="com.CPM.qa.testCases.TC_CPM_038" />-->
-		 <class name="com.CPM.qa.testCases.TC_CPM_039" />
+		 <class name="com.CPM.qa.testCases.TC_CPM_040" />
 
 		</classes>
 	</test>
@@ -123,7 +123,7 @@
 		 <class name="com.CPM.qa.testCases.TC_CPM_037" />
 		 <class name="com.CPM.qa.testCases.TC_CPM_086" />
 		 <class name="com.CPM.qa.testCases.TC_CPM_038" />-->
-		 <class name="com.CPM.qa.testCases.TC_CPM_039" />
+		 <class name="com.CPM.qa.testCases.TC_CPM_040" />
 		</classes>
 	</test>
 
